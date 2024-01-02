@@ -1,0 +1,700 @@
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/about.html
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\about.html
+Content Type: text/html
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/blog-list.html
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\blog-list.html
+Content Type: text/html
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/blog-single.html
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\blog-single.html
+Content Type: text/html
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/contact.html
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\contact.html
+Content Type: text/html
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/css/aos.css
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\css\aos.css
+Content Type: text/css
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/css/icofont.min.css
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\css\icofont.min.css
+Content Type: text/css
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/css/responsive.css
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\css\responsive.css
+Content Type: text/css
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/css/style.css
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\css\style.css
+Content Type: text/css
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/css/wave-animation-style.css
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\css\wave-animation-style.css
+Content Type: text/css
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/faq.html
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\faq.html
+Content Type: text/html
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/icofont.woff
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\icofont.woff
+Content Type: font/woff
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/icofont.woff2
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\icofont.woff2
+Content Type: font/woff2
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-300.eot
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-300.eot?
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-300.svg
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-300.svg
+Content Type: image/svg+xml
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-300.ttf
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-300.ttf
+Content Type: font/ttf
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-300.woff
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-300.woff
+Content Type: font/woff
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-300.woff2
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-300.woff2
+Content Type: font/woff2
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-500.eot
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-500.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-500.eot?
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-500-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-500.svg
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-500.svg
+Content Type: image/svg+xml
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-500.ttf
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-500.ttf
+Content Type: font/ttf
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-500.woff
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-500.woff
+Content Type: font/woff
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-500.woff2
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-500.woff2
+Content Type: font/woff2
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-500italic.eot
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-500italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-500italic.eot?
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-500italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-500italic.svg
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-500italic.svg
+Content Type: image/svg+xml
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-500italic.ttf
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-500italic.ttf
+Content Type: font/ttf
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-500italic.woff
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-500italic.woff
+Content Type: font/woff
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-500italic.woff2
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-500italic.woff2
+Content Type: font/woff2
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-600.eot
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-600.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-600.eot?
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-600-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-600.svg
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-600.svg
+Content Type: image/svg+xml
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-600.ttf
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-600.ttf
+Content Type: font/ttf
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-600.woff
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-600.woff
+Content Type: font/woff
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-600.woff2
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-600.woff2
+Content Type: font/woff2
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-700.eot
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-700.eot?
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-700-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-700.svg
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-700.svg
+Content Type: image/svg+xml
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-700.ttf
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-700.ttf
+Content Type: font/ttf
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-700.woff
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-700.woff
+Content Type: font/woff
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-700.woff2
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-700.woff2
+Content Type: font/woff2
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-800.eot
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-800.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-800.eot?
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-800-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-800.svg
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-800.svg
+Content Type: image/svg+xml
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-800.ttf
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-800.ttf
+Content Type: font/ttf
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-800.woff
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-800.woff
+Content Type: font/woff
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-800.woff2
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-800.woff2
+Content Type: font/woff2
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-italic.eot
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-italic.eot?
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-italic.svg
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-italic.svg
+Content Type: image/svg+xml
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-italic.ttf
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-italic.ttf
+Content Type: font/ttf
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-italic.woff
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-italic.woff
+Content Type: font/woff
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-italic.woff2
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-italic.woff2
+Content Type: font/woff2
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-regular.eot
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-regular.eot?
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-regular.svg
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-regular.ttf
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-regular.ttf
+Content Type: font/ttf
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-regular.woff
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-regular.woff
+Content Type: font/woff
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/fonts/poppins-v20-latin-regular.woff2
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\fonts\poppins-v20-latin-regular.woff2
+Content Type: font/woff2
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/about-frame.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\about-frame.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/about-screen.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\about-screen.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/about_main.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\about_main.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/abt_01.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\abt_01.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/abt_02.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\abt_02.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/abt_03.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\abt_03.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/abt_functional.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\abt_functional.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/abt_support.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\abt_support.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/appstore_blue.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\appstore_blue.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/appstore_white.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\appstore_white.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/avtar_testimonial.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\avtar_testimonial.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/banner-image.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\banner-image.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/banner-shape1.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\banner-shape1.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/banner-shape2.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\banner-shape2.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/banner-shape3.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\banner-shape3.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/blod-detail.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\blod-detail.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/blog_d01.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\blog_d01.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/blog_d02.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\blog_d02.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/blog_d03.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\blog_d03.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/blog_detail_main.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\blog_detail_main.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/blog_sub_01.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\blog_sub_01.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/blog_sub_02.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\blog_sub_02.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/bread_crumb_bg.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\bread_crumb_bg.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/call_icon.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\call_icon.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/communication.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\communication.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/contact_message_icon.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\contact_message_icon.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/countries.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\countries.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/create_account.jpg
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\create_account.jpg
+Content Type: image/jpeg
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/download-screen01.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\download-screen01.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/download-screen02.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\download-screen02.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/download.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\download.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/download_app.jpg
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\download_app.jpg
+Content Type: image/jpeg
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/enjoy_app.jpg
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\enjoy_app.jpg
+Content Type: image/jpeg
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/envato.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\envato.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/experts_01.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\experts_01.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/experts_02.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\experts_02.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/experts_03.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\experts_03.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/experts_04.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\experts_04.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/favicon.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\favicon.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/features_frame.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\features_frame.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/followers.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\followers.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/footer_logo.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\footer_logo.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/functional.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\functional.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/google.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\google.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/googleplay_blue.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\googleplay_blue.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/googleplay_white.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\googleplay_white.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/go_top.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\go_top.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/icon_bg.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\icon_bg.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/inner_page_banner_overlay.svg
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\inner_page_banner_overlay.svg
+Content Type: image/svg+xml
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/live-chat.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\live-chat.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/location_icon.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\location_icon.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/logo.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\logo.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/mail_icon.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\mail_icon.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/modern01.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\modern01.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/modern02.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\modern02.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/modern03.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\modern03.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/paypal.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\paypal.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/play_black.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\play_black.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/play_icon.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\play_icon.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/premium.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\premium.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/quote_icon.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\quote_icon.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/reviews.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\reviews.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/review_01.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\review_01.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/review_02.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\review_02.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/review_03.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\review_03.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/review_04.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\review_04.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/review_05.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\review_05.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/review_06.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\review_06.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/review_07.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\review_07.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/review_08.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\review_08.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/review_09.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\review_09.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/right_icon.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\right_icon.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/screen-1.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\screen-1.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/screen-2.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\screen-2.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/screen-3.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\screen-3.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/screen-4.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\screen-4.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/screen-5.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\screen-5.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/secure.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\secure.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/secure_data.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\secure_data.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/shopboat.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\shopboat.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/slack.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\slack.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/spoty.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\spoty.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/standard.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\standard.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/story01.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\story01.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/story02.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\story02.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/story03.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\story03.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/story04.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\story04.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/story05.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\story05.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/story06.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\story06.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/story07.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\story07.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/story08.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\story08.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/story09.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\story09.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/support.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\support.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/testimonial_bg.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\testimonial_bg.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/testimonial_user1.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\testimonial_user1.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/testimonial_user2.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\testimonial_user2.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/testimonial_user3.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\testimonial_user3.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/unlimited.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\unlimited.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/used01.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\used01.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/used02.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\used02.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/used03.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\used03.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/used04.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\used04.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/images/yt_thumb.png
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\images\yt_thumb.png
+Content Type: image/png
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/index.html
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\index.html
+Content Type: text/html
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/js/aos.js
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\js\aos.js
+Content Type: application/javascript
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/js/jquery.js
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\js\jquery.js
+Content Type: application/javascript
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/js/main.js
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\js\main.js
+Content Type: application/javascript
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/pricing.html
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\pricing.html
+Content Type: text/html
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/reviews.html
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\reviews.html
+Content Type: text/html
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/sign-in.html
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\sign-in.html
+Content Type: text/html
+
+Uri: http://kalanidhithemes.com/live-preview/landing-page/apper/all-demo/03-app-landing-page-wave-animation/sign-up.html
+File Name: C:\Downloaded Web Sites\kalanidhithemes.com\live-preview\landing-page\apper\all-demo\03-app-landing-page-wave-animation\sign-up.html
+Content Type: text/html
+
